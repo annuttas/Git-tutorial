@@ -7,9 +7,15 @@
 git init
 ```
 
-## Добавление файдла в коммит
+## Добавление файла в коммит
 
 Создайте файл с нужным содержимым и введите команду
 ```
 git add <filename>
+```
+
+## Как задать имя пользователя и адрес электронной почты
+```
+git config --global user.name "user.name"
+git config --global user.email "user.email"
 ```
