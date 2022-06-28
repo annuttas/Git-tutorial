@@ -56,3 +56,10 @@ git diff
 ```
 git checkout [branch-name]
 ```
+
+## Создание новой ветки
+
+Для создания новой ветки нужно ввести команду
+```
+git branch <branch name>
+```
