@@ -56,3 +56,10 @@ git diff
 ```
 git checkout [branch-name]
 ```
+
+## Коммит изменений
+
+После добавления всех файлов в коммит нужно ввести команду
+```
+git commit -m "<commit message>"
+```
