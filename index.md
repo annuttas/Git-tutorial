@@ -86,3 +86,7 @@ git merge <branch name>
 git rebase <branch to rebase>
 >>>>>>> faad748 (rebase)
 ```
+  
+  ## Клонирование репозитория
+  
+  Для клонирование репозитория нужно ввести команду
